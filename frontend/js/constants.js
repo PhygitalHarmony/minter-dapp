@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Phygital Harmony NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Phygital Harmony is an NFT project merging the physical + digital (phygital) world. Ownership provides benefits to shaping land IRL into a destination to visit. Maintaining a connection with the physical world through art and beauty.';
+const welcome_p = 'Phygital Harmony is an NFT project merging the physical + digital (phygital) world. Ownership provides access to shaping land IRL into a community destination open to visit and enjoy! Leave your mark and stay connected with the physical world! Learn more <a href="https://phygitalharmony.com/tiers"  target="_blank" rel="noopener noreferrer">HERE</a>';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
