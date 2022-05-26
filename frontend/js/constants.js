@@ -1,5 +1,5 @@
-const contractAddress = "0xfca83642941613Dbb01A732d8Ec59C04fea35d34"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xe9d972cD0b511BbFCaB66A1f7749F93b0e3ff107"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Phygital Harmony NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
