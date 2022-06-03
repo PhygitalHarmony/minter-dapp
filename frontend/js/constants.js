@@ -6,7 +6,7 @@ const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Phygital Harmony is an NFT project merging the physical + digital (phygital) world. Ownership provides access to shaping land IRL into a community destination open to visit and enjoy! Leave your mark and stay connected with the physical world! Learn more <a href="https://phygitalharmony.com/tiers"  target="_blank" rel="noopener noreferrer">HERE</a>';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
-const h1_public_mint = "Public Minting Open!!";
+const h1_public_mint = "Claim Your Membership";
 const h2_presale_coming_soon = "Public Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
 const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
